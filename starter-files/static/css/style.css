@@ -1,0 +1,16 @@
+/* ==[ IMPORTANT ] ==
+// @import css files it the following order only
+    // settings folder
+    // tools folder
+    // generics folder
+    // elements folder
+    // objects folder
+    // components
+    // overrides
+// == READ EACH FOLDER'S readme.md
+-------------------------------------------------------------------------------
+// css/fonts folder is for embedded fonts
+// imgs is for non-informational decorative images used only in css
+    // Example background or buttons images
+--------------------------------------------------------------------------------
+*/ 
